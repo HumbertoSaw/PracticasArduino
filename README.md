@@ -1,9 +1,9 @@
-# Practicas del curso "Arduino desde Cero" para la material de Sistemas Programables
+# Practicas del curso "Arduino desde Cero" para la material de Sistemas Programables<br>
 
-Docente:
-- Esquivel Pat Agustín
-Alumnos:
-- Adrián Sansores Torres
+Docente:<br>
+- Esquivel Pat Agustín<br>
+Alumnos:<br>
+- Adrián Sansores Torres<br>
 - Humberto Sánchez Cruz
 
 
