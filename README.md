@@ -17,6 +17,6 @@
     Adrián Sansores Torres
   </li>
   <li>
-    HUmberto Sánchez Cruz
+    Humberto Sánchez Cruz
   </li>
 </ul> 
